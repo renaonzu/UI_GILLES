@@ -1,0 +1,32 @@
+.botoes_menu {
+    border-top-width: 2px;
+    border-top-color: rgb(255, 255, 255);
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+    border-bottom-right-radius: 13px;
+    border-bottom-left-radius: 13px;
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    background-color: rgb(209, 54, 176);
+    -unity-font-definition: url("project://database/Library/unity%20default%20resources?fileID=10102&guid=0000000000000000e000000000000000&type=0#LegacyRuntime");
+    -unity-text-outline-width: 1px;
+    -unity-text-outline-color: rgb(255, 255, 255);
+    text-shadow: 0 0 0 rgba(53, 16, 16, 0);
+    flex-basis: 28px;
+    justify-content: flex-end;
+    transition-duration: 0s;
+}
+
+.botoes {
+    background-color: rgb(125, 0, 99);
+    transition-duration: 0s;
+}
+
+.botoes:hover {
+    background-color: rgb(130, 0, 103);
+    transition-duration: 0.8s;
+}
