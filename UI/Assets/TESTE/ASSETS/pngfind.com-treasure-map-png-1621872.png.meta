@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pngfind.com-treasure-map-png-1621872_0: 7045218913520338016
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

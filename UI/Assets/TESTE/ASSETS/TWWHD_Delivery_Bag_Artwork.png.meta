@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TWWHD_Delivery_Bag_Artwork_0: -6028379809825050294
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
